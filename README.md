@@ -1,7 +1,8 @@
 # xdj
 This is a game made by my friend.
 It's Chinese name is 寻道记.
-It's made with Mind+(https://mindplus.cc/en.html),Scratch China edition.
+It's made with Mind+.
+https://mindplus.cc/en.html
 You need to open with it.
 Follow these steps:
 1.Open the website.
