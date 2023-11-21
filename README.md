@@ -24,3 +24,4 @@ Offline:
 8.Put your cursor on"Project",then click"Load Project".
 9.Select the files you download.
 10.Enjoy!
+P.S.Learn Chinese before playing!
